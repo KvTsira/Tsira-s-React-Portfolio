@@ -13,7 +13,7 @@ function Resume() {
 
         <a
           className="button is-primary"
-          href={process.env.PUBLIC_URL + "/tsira-kvaratskhelia-resume.pdf"}
+          href={process.env.PUBLIC_URL + "/Tsira Kvaratskhelia Resume OLD.doc"}
           target="_blank"
           rel="noreferrer"
         >
