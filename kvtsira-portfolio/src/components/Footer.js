@@ -12,14 +12,20 @@ function Footer() {
           .
           <hr />
           <a
-            href="www.linkedin.com/in/tsira-kvaratskhelia-92aa2b3"
+            href="https://www.linkedin.com/in/tsira-kvaratskhelia-92aa2b3"
             target="_blank" rel="noreferrer"
           >
             LinkedIn
-          </a>{" "}
+          </a>
+          {" "}
           |{" "}{" "}
-          <a href="https://google.com" target="_blank" rel="noreferrer">
-            Link to google (placeholder)
+          <a href="https://github.com/KvTsira" target="_blank" rel="noreferrer">
+            Github
+          </a>
+          {" "}
+          |{" "}{" "}
+          <a href = "mailto: kvtsira@gmail.com" target="_blank" rel="noreferrer">
+            Email
           </a>
         </p>
       </div>

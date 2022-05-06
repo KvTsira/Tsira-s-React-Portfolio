@@ -27,9 +27,9 @@ function Resume() {
         <p className="content is-medium">Skills</p>
         <hr />
         <ul>
-          <li>HTML, CSS, Javascript</li>
-          <li>OpenAPI, YAML, JSON</li>
-          <li>Markdown</li>
+          <li>HTML, CSS, Javascript, Bootstrap</li>
+          <li>MySQL, Node.js, MongoDB </li>
+          <li>RestAPIs, React, GraphQL, Markdown</li>
           <li>Git</li>
           <li>Github Repo</li>
         </ul>
